@@ -1,0 +1,6 @@
+{
+  "name": "ЗооДракон - Экзотические животные",
+  "description": "Официальный сайт и интерактивный каталог зоомагазина экзотических животных и студии террариумистики ЗооДракон в Краснодаре.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
